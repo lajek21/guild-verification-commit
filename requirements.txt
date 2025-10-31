@@ -1,0 +1,3 @@
+Guild.xyz verification
+Timestamp: 2025-10-31T21:16:41.806Z
+Commit: Fix memory leak in event handlers
